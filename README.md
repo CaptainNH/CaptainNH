@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, I'm Stas
 ### Сomputer science student
+![Computer science student](https://readme-jokes.vercel.app/api?hideBorder)
 
 I am completing my final year at the university and working as a mobile application developer.
 
@@ -21,8 +22,6 @@ I am completing my final year at the university and working as a mobile applicat
 - 🌱 I’m currently learning Data Science and ML ([My Kaggle](https://www.kaggle.com/stastsabolov))
 - ⚡ I enjoy solving algorithmic problems ([My Codeforces](https://codeforces.com/profile/CaptainN))
 - 📫 How to reach me: [My Telegram](https://t.me/CaptainN)
-
-![Computer science student](https://readme-jokes.vercel.app/api?hideBorder)
 
 **Skills:** 
 
