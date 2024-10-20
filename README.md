@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, I'm Stas
 ### Сomputer science student
-I am completing my final year at the university and working as a mobile application developer.
+I am a master's student at the HSE University and working as a mobile application developer.
 
 - 🔭 I’m currently working on various Android and IOS applications 
 - 🌱 I’m currently learning Data Science and ML ([My Kaggle](https://www.kaggle.com/stastsabolov))
