@@ -20,6 +20,7 @@ I am a master's student at the HSE University and working as a mobile applicatio
 - 🌱 I’m currently learning Data Science and ML ([My Kaggle](https://www.kaggle.com/stastsabolov))
 - ⚡ I enjoy solving algorithmic problems ([My Codeforces](https://codeforces.com/profile/CaptainN))
 - 📫 How to reach me: [My Telegram](https://t.me/CaptainN)
+- [Resume](https://drive.google.com/file/d/1RpjcDcEj2JJQWECSKduTAz4QEn44kKBv/view?usp=sharing)
 
 ![Computer science student](https://readme-jokes.vercel.app/api?hideBorder)
 
